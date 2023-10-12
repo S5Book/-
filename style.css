@@ -1,0 +1,41 @@
+body {
+    margin: 0 0;
+    background-image: linear-gradient(to right, rgba(12, 130, 151, 0.586), rgb(21, 101, 121));
+}
+
+header {
+    background-color: rgba(240, 248, 255, 0.53);
+}
+
+a {
+    color: rgb(29, 29, 29);
+    text-decoration: none;
+    font-family: monospace;
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+}
+
+a.title-main1 {
+    font-size: 2rem;
+}
+
+a.title-others1 {
+    font-size: 1rem;
+}
+
+a.titlehelper {
+    font-size: 2rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.Ogloszenia {
+    background-image: linear-gradient(to right, rgba(0, 52, 184, 0.586), rgb(0, 37, 129));
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(85, 85, 85);
+    margin-top: 2%;
+    margin-right: 60%;
+}
